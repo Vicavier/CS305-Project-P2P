@@ -1,0 +1,12 @@
+*.fragment
+*.chunkhash
+__pycache__
+log/
+*.zip
+*.rar
+*.mp4
+
+# 忽略IDE的配置文件
+.idea/
+.vscode/
+.pytest_cache
